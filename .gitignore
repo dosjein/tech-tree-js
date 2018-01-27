@@ -1,8 +1,10 @@
 .idea
 .DS_Store
+.mysql.env
 
 dist/*
 !dist/js/
 node_modules/
 images/
 json/
+storage/*
